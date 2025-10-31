@@ -9,11 +9,11 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+There is an AND gate on 1 and two connected to an LED.
 
 ## How to test
 
-Explain how to use your project
+I don't know.
 
 ## External hardware
 
